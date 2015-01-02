@@ -9,9 +9,8 @@
 }
 
 .header {
-	
 	color: black; 
-	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: ‘Lucida Console’, Monaco, monospace;
 }
 
 .header h1{
