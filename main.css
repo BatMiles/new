@@ -7,7 +7,7 @@
 	color: cyan; 
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	margin-left: 25%;
-	margin-top: 25%;
+	margin-top: 4%;
 }
 
 .header h1{
@@ -16,5 +16,6 @@
 
 .buttons {
 	color: cyan;
+	margin-left: 25%;
 	padding-top:10%;
 }
