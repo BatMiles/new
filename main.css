@@ -1,15 +1,12 @@
 .body {
 	text-align: center; 
-	
+	margin-left: 20%;
+	margin-top: 250%;
 }
 
 .header {
 	color: cyan; 
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	margin-left: 50%;
-	margin-right: 50%;
-	margin-top: 50%;
-	margin-bottom: 50%;
 }
 
 .header h1{
@@ -17,9 +14,5 @@
 }
 
 .buttons {
-	margin-left:50%;
-	margin-right:50%;
-	margin-top:60%;
-	margin-bottom:40%;
 	padding-top:10%;
 }
